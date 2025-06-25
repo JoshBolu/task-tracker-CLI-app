@@ -59,6 +59,5 @@ node app.js list-done
 
 All tasks are stored in [`testfile.json`](testfile.json).
 
-## License
-
-MIT
+## Project URL
+https://github.com/JoshBolu/task-tracker-CLI-app
