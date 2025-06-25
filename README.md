@@ -60,4 +60,5 @@ node app.js list-done
 All tasks are stored in [`testfile.json`](testfile.json).
 
 ## Project URL
-https://github.com/JoshBolu/task-tracker-CLI-app
+
+There is no live hosted version (CLI-based app). To run it locally:
