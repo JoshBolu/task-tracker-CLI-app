@@ -60,5 +60,4 @@ node app.js list-done
 All tasks are stored in [`testfile.json`](testfile.json).
 
 ## Project URL
-
-There is no live hosted version (CLI-based app). To run it locally:
+https://roadmap.sh/projects/task-tracker
